@@ -13,4 +13,6 @@ Ensure that the ChromeDriver executable is downloaded and placed in your PATH.
 The chrome webdriver can be obtained from the [Google Chrome webdriver downloads page](https://chromedriver.chromium.org/).
 
 #### Python and it's dependencies
-
+This framework runs on Python 3.7.
+Dependencies are managed using pipenv. 
+Use `pipenv install` to install them.
