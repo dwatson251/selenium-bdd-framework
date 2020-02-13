@@ -1,0 +1,17 @@
+;=======================================================================================================================
+; Defines settings for the behave package
+; Please renamed this file to behave.ini after configuring to have behave use the settings.
+;=======================================================================================================================
+
+[behave.userdata]
+; ----------------------------------------------------------------------------------------------------------------------
+; API and Front End Application endpoints:
+; ----------------------------------------------------------------------------------------------------------------------
+; Examples
+; Uncomment these lines and specify the URL's to the application you're testing :)
+;
+; If your application has an API, it may be necessary to obtain information from an endpoint to suppliment the test.
+; api_url =
+;
+; A front end URL will be the URL base that the selenium framework opens up a and runs tests on
+; frontend_url =
